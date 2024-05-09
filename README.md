@@ -20,3 +20,4 @@ If you still want to use this as the basis for your project, I might as well tel
 - Save the generated config profile to a file
 - Upload the outputted config profile to your MDM provider of choice, testing in a non-production environment, naturally.
 - Add some better error checks (what happens if your computer is offline or the SOFA website is down?)
+- There's a bug/missing functionality in the footer. Can you find it and fix it? PRs welcome ;)
